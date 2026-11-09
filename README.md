@@ -61,9 +61,9 @@ Enterprise cloud-hosted Third-Party Paper Review and AI Ingestion platforms. Sor
 
 ## 🟩 Open-Source Software
 
-Self-hosted, developer-friendly open-source frameworks, MCP servers, and LLM skills for third-party paper ingestion, automated contract review, and redlining. Sorted descending by GitHub star count. 💻⭐
+Self-hosted, developer-friendly open-source frameworks, MCP servers, and LLM skills for third-party paper ingestion, automated contract review, and redlining. Sorted descending by GitHub Stars_Count. 💻⭐
 
-| Project | Stars | License | Primary Tech Stack | Third-Party Paper Focus | Redlining Engine | Key Highlights & Architecture |
+| Project | GitHub_Stars | License | Primary Tech Stack | Third-Party Paper Focus | Redlining Engine | Key Highlights & Architecture |
 |:---|:---:|:---:|:---|:---:|:---:|:---|
 | **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** 🧠 | [![Stars](https://img.shields.io/github/stars/zubair-trabzada/ai-legal-claude?style=social&color=white)](https://github.com/zubair-trabzada/ai-legal-claude/stargazers) | MIT / Open 📄 | Claude Code / Agentic Prompts / PDF 🛠️ | ✅ Full Review | ✅ Negotiation Strategy | 14 legal skills and 5 parallel agent workflows; automated contract intake, risk analysis, compliance audits, and client-ready PDF summaries. 🌟 |
 | **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 📐 | [![Stars](https://img.shields.io/github/stars/evolsb/claude-legal-skill?style=social&color=white)](https://github.com/evolsb/claude-legal-skill/stargazers) | MIT 📄 | Python / Claude / CUAD / Cursor 🐍 | ✅ Ingestion | ✅ Tracked Redlines | Benchmarked against Atticus CUAD dataset; lawyer-ready contract redlines, playbook risk detection, and compatibility with 26+ IDE agent tools. 🎯 |
@@ -87,7 +87,7 @@ Self-hosted, developer-friendly open-source frameworks, MCP servers, and LLM ski
 
 ## 📊 Comparison at a Glance
 
-| Solution | Deployment | License | Third-Party Paper Ingestion | Tracked Word Redlines | Company Scale / Repo Stars | Starting Cost Tier | Free Evaluation Tier |
+| Solution | Deployment | License | Third-Party Paper Ingestion | Tracked Word Redlines | Company Scale / Repo GitHub_Stars | Starting Cost Tier | Free Evaluation Tier |
 |:---|:---|:---|:---:|:---:|:---|:---|:---|
 | **Icertis Vera** 🤖 | SaaS ☁️ | Proprietary 🔒 | ✅ | ✅ | $5.0B Valuation 💎 | $100K/year 💵 | Contact Sales 📞 |
 | **Ironclad Agent** 🛡️ | SaaS ☁️ | Proprietary 🔒 | ✅ | ✅ | $3.2B Valuation 💎 | $30K/year ($500/mo) 💵 | 14-Day Sandbox ⏳ |
@@ -158,7 +158,7 @@ Contributions are welcome! 🌟 If you maintain or use an open-source contract a
 
 1. Fork this repository 🍴
 2. Create your feature branch (`git checkout -b feature/add-new-tool`) 🌿
-3. Add the project with GitHub star count, license, tech stack, and primary differentiators ✍️
+3. Add the project with GitHub Stars_Count, license, tech stack, and primary differentiators ✍️
 4. Open a Pull Request with a clear description of why the tool is valuable for third-party paper ingestion 🚀
 
 ---
